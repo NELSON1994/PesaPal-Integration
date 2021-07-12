@@ -43,7 +43,7 @@ public class AppConfigs {
                 "Integration To PesaPal Application",
                 "1.0",
                 "@PesaPal Integration 2021 ",
-                new Contact("Lorine Achieng' ", "", "lorineachieng@gmail.com"),
+                new Contact("Nelson Moses Otieno' ", "", "nelson62moses@gmail.com"),
                 "",
                 "",
                 Collections.emptyList());
